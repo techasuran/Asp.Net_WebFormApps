@@ -11,7 +11,14 @@ namespace SimpleUserControls
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            HttpCookie MyCookie = new HttpCookie("LastVisit");
+            DateTime now = DateTime.Now;
 
+            MyCookie.Value = now.ToString();
+
+            Response.Cookies["CityName"].Value = "London";
+
+            Response.Cookies.Add(MyCookie);
         }
     }
 }

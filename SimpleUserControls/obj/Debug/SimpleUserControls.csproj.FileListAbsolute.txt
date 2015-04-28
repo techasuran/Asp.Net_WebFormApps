@@ -37,3 +37,4 @@ G:\Git_Techasuran\Asp.Net_WebFormApps\SimpleUserControls\bin\Microsoft.Web.Infra
 G:\Git_Techasuran\Asp.Net_WebFormApps\SimpleUserControls\bin\Microsoft.Web.Infrastructure.xml
 G:\Git_Techasuran\Asp.Net_WebFormApps\SimpleUserControls\obj\Debug\SimpleUserControls.dll
 G:\Git_Techasuran\Asp.Net_WebFormApps\SimpleUserControls\obj\Debug\SimpleUserControls.pdb
+G:\Git_Techasuran\Asp.Net_WebFormApps\SimpleUserControls\obj\Debug\SimpleUserControls.csprojResolveAssemblyReference.cache
